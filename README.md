@@ -6,7 +6,7 @@ Fork this repo and edit your API KEY, HASH, and Number in scraper.py and adder.p
 
 Termux setup:
 
-$pkg install Github
+$pkg install github
 
 $pkg install python3
 
